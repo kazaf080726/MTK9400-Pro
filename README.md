@@ -8,6 +8,14 @@
 
 ---
 
+## 下载
+
+GitHub Release：
+
+https://github.com/kazaf080726/MTK9400-Pro/releases/tag/v1.0.0
+
+Release 只包含工具本体，不包含固件、资源包、救砖包或用户数据。
+
 ## 功能
 
 - COM / WinUSB 两种连接模式
