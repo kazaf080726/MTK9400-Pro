@@ -1,0 +1,13 @@
+PASS 01 DA 参数存在
+PASS 02 Preloader 参数存在
+PASS 03 关闭 auth 不传 --auth
+PASS 04 串口参数存在
+PASS 05 保存读取
+PASS 06 auth 开关保存
+PASS 07 串口保存
+PASS 08 开启 auth 传 --auth
+PASS 09 拒绝不存在的 DA
+PASS 10 拒绝不存在的 Preloader
+PASS 11 拒绝过小 DA
+
+TOTAL 11  PASS=11  FAIL=0

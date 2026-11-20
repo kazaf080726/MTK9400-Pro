@@ -1,0 +1,14 @@
+PASS 01 全量等于现场 GPT 减 userdata             
+PASS 02 全量不含 userdata                     
+PASS 03 全量包含 super                        
+PASS 04 分区数动态                             
+PASS 05 现场总扇区                             
+PASS 06 现场尺寸                              
+PASS 07 脚本先 printgpt                      
+PASS 08 脚本抓取 GPT 主扇区                      
+PASS 09 备份 GPT 由主 GPT 重建                  
+PASS 10 脚本不读 userdata                     
+PASS 11 脚本读取 super                        
+PASS 12 脚本路径相对 staging                    
+
+TOTAL 12  PASS=12  FAIL=0

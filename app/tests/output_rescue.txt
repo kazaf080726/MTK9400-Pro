@@ -1,0 +1,17 @@
+PASS 01 GPT 原始解析                          
+PASS 02 GPT 主备一致                          
+PASS 03 生成全量救砖包                           
+PASS 04 ZIP 仅存储                           
+PASS 05 包校验通过                             
+PASS 06 包内无 userdata                      
+PASS 07 恢复计划含 GPT 重建                      
+PASS 08 恢复计划含分区写入                         
+PASS 09 恢复计划含 userdata 格式化                
+PASS 10 恢复计划不写 userdata 镜像                
+PASS 11 解压并复核                             
+PASS 12 GPT CRC 损坏可识别                     
+PASS 13 GPT 不匹配可识别                        
+PASS 14 部分包类型                             
+PASS 15 篡改包被拒绝                            
+
+TOTAL 15  PASS=15  FAIL=0

@@ -1,0 +1,15 @@
+loader     OK    1.3 MB
+auth       OK    2 KB
+heapbait   OK    4 KB
+libusb     OK    163 KB
+winfsp     OK    193 KB
+gpt        OK    2 KB
+fastboot   OK    2.3 MB
+zadig      OK    5.1 MB
+workdir    OK    正常
+disk       OK    306.56 GB
+gptload    OK    97 个分区
+mtkmod     OK    已打包
+gpt parts : 97
+loader 1373364 86d986c67c8fcc7bc35322214913837053c405e17f3dd604c8b0e1c25858c522
+RESULT : OK

@@ -1,0 +1,13 @@
+QFontDatabase: Cannot find font directory D:/Users/Administrator/Desktop/mtkclient/Lib/site-packages/PySide6/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+PASS 01 救砖流程跑到全局恢复                        
+PASS 02 包校验通过                             
+PASS 03 GPT 匹配后未重建                        
+PASS 04 预检脚本执行                            
+PASS 05 全局脚本执行                            
+PASS 06 全局脚本含分区写入                         
+PASS 07 全局脚本格式化 userdata                  
+PASS 08 完成后有提示                            
+PASS 09 全局恢复无错误                           
+
+TOTAL 9  PASS=9  FAIL=0

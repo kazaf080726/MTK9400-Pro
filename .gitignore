@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# PyInstaller
+app/build/
+app/dist/
+app/v2_build/
+app/v2_dist/
+app/gui_build/
+app/gui_dist/
+app/gui2_build/
+app/gui2_dist/
+app/gui3_build/
+app/gui3_dist/
+*.spec.bak
+
+# Runtime data / personal
+MTK9400_Data/
+backup*/
+logs/
+read/
+write/
+rescue/
+*.log
+*.bin
+*.img
+*.7z
+*.zip
+
+# Local tools (third-party binaries)
+app/tools/*.exe
+app/platform-tools/
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store

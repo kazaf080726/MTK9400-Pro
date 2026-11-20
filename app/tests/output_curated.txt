@@ -1,0 +1,19 @@
+PASS 01 定制包创建
+PASS 02 定制包类型
+PASS 03 定制包分区数
+PASS 04 复查通过
+PASS 05 不含私人分区
+PASS 06 不含 userdata
+PASS 07 只写白名单
+PASS 08 不写私人分区
+PASS 09 userdata 单独格式化
+PASS 10 拒绝私人分区入包
+PASS 11 拒绝缺少必需分区
+PASS 12 拒绝缺少 super
+PASS 13 清单可读
+PASS 14 preloader_raw 入包
+PASS 15 preloader_raw 校验通过
+PASS 16 preloader_raw 可选写入
+PASS 17 preloader_raw 默认不写
+
+TOTAL 17  PASS=17  FAIL=0

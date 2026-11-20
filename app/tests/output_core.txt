@@ -1,0 +1,25 @@
+PASS 01 ANSI 清洗                         
+PASS 02 GPT 97 项                        
+PASS 03 中文说明                            
+PASS 04 未知分区兜底                          
+PASS 05 备份脚本格式                          
+PASS 06 体积格式化                           
+PASS 07 设备芯片解析                          
+PASS 08 硬件码解析                           
+PASS 09 六步完成                            
+PASS 10 分区解析                            
+PASS 11 无 ANSI 残留                       
+PASS 12 初始未连接                           
+PASS 13 连接状态                            
+PASS 14 操作中                             
+PASS 15 状态通知                            
+PASS 16 连接态禁用 connect                   
+PASS 17 未连接只留连接类                        
+PASS 18 分区尺寸解析                          
+PASS 19 preloader 禁止写入                  
+PASS 20 preloader 禁止擦除                  
+PASS 21 数据目录是绝对路径                       
+PASS 22 备份脚本使用相对目录                      
+PASS 23 子进程 cwd 可写备份目录                  
+
+TOTAL 23  PASS=23  FAIL=0

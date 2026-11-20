@@ -1,0 +1,6 @@
+PASS 01 管理员允许进入
+PASS 02 非管理员拒绝进入
+PASS 03 非管理员不会启动自检
+PASS 04 提权启动后旧进程退出
+
+TOTAL 4  PASS=4  FAIL=0
