@@ -8,6 +8,18 @@
 
 ---
 
+## 文档
+
+完整使用说明：[docs/USAGE.md](docs/USAGE.md)
+
+架构：[docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)
+
+构建：[docs/BUILD.md](docs/BUILD.md)
+
+安全：[docs/SECURITY.md](docs/SECURITY.md)
+
+已知问题：[docs/KNOWN_ISSUES.md](docs/KNOWN_ISSUES.md)
+
 ## 下载
 
 GitHub Release：
